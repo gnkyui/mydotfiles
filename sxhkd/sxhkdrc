@@ -1,0 +1,10 @@
+ctrl + alt + t
+    x-terminal-emulator
+ctrl + alt + l
+    slock
+alt + F2
+    dmenu_run
+Print
+    scrot ~/Изображения/%Y-%m-%d-%T-screenshot.png
+shift + Print
+    scrot -s ~/Изображения/%Y-%m-%d-%T-screenshot.png
