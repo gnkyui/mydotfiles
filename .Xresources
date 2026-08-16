@@ -1,0 +1,11 @@
+XTerm*foreground: white
+XTerm*background: black
+XTerm*metaSendsEscape: true
+XTerm*scrollBar: true
+XTerm*rightScrollBar: true
+XTerm*faceName: Monospace
+XTerm*faceSize: 10
+XTerm*selectToClipboard: true
+XTerm*vt100.translations: #override \
+    Ctrl Shift <Key>C: copy-selection(CLIPBOARD) \n\
+    Ctrl Shift <Key>V: insert-selection(CLIPBOARD)
