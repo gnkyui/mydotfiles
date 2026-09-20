@@ -1,3 +1,6 @@
 set autoindent
 set number
 set showmatch
+set ignorecase
+set tabstop=4
+set shiftwidth=4
