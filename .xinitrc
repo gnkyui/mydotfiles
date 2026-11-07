@@ -1,1 +1,1 @@
-exec openbox-session
+exec dbus-run-session startlxde
