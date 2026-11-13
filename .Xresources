@@ -1,5 +1,5 @@
-XTerm*foreground: white
-XTerm*background: black
+XTerm*foreground: black
+XTerm*background: white
 XTerm*metaSendsEscape: true
 XTerm*scrollBar: true
 XTerm*rightScrollBar: true
